@@ -1,7 +1,7 @@
 # Kubernetes Design and Architecture
 
 A much more detailed and updated [Architectural
-Roadmap](/contributors/design-proposals/architecture/architectural-roadmap.md) is also available.
+Roadmap](architecture/architectural-roadmap.md) is also available.
 
 ## Overview
 
